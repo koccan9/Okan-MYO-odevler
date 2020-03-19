@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notlarım</string>
+    <string name="anaEkranTitle">ANA EKRAN</string>
+    <string name="kategoriListesiTitle">KATEGORİLER</string>
+    <string name="dokumanByKategoriTitle">NOT KATEGORİLERİ</string>
+    <string name="dokumanEkleTitle">%s KATEGORİSİNE NOT EKLE</string>
+    <string name="dokumanKatNameTitle">%s KATEGORİSİNE AİT NOTLAR</string>
+    <string name="katEkleTitle">KATEGORİ EKLE</string>
+    <string name="katSilGuncelleTitle">KATEGORİYİ GÜNCELLE</string>
+    <string name="kategoriEkleTitle">YENİ KATEGORİ EKLE</string>
+    <string name="dokumanDuzenleTitle">DÖKÜMANI GÖRÜNTÜLE</string>
+</resources>

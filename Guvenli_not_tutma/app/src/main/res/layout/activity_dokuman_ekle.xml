@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DokumanEkle">
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/baslikEDT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="not başlığı"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/contentEDT"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:ems="10"
+            android:gravity="start|top"
+            android:hint="not yaz"
+            android:inputType="textMultiLine" />
+
+        <Button
+            android:id="@+id/notEkleEDT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="YeniDokumanEkle"
+            android:text="yeni not ekle" />
+
+        <Button
+            android:id="@+id/donus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="geri"
+            android:text="notlara git" />
+
+        <Button
+            android:id="@+id/asdf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="anaEkran"
+            android:text="ana ekrana git" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
