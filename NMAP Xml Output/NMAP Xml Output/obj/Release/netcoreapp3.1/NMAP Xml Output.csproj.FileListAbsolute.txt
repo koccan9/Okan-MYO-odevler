@@ -1,0 +1,10 @@
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.exe
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.deps.json
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.runtimeconfig.json
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.runtimeconfig.dev.json
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.dll
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\bin\Release\netcoreapp3.1\NMAP Xml Output.pdb
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\obj\Release\netcoreapp3.1\NMAP Xml Output.AssemblyInfoInputs.cache
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\obj\Release\netcoreapp3.1\NMAP Xml Output.AssemblyInfo.cs
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\obj\Release\netcoreapp3.1\NMAP Xml Output.dll
+E:\programlama\csharp\NMAP Xml Output\NMAP Xml Output\obj\Release\netcoreapp3.1\NMAP Xml Output.pdb
